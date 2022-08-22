@@ -1,4 +1,4 @@
-# Whats-Up-Phililppines-Topic-Modelling-on-Reddit-Philippines
+# Whats Up Phililppines? Topic Modelling on Reddit Philippines
 
 Reddit is a social media forum with an emphasis on communities called subreddits. Worldwide, there are over 52 million daily active users on the site. In the Philippines, there are over 73 million (67% of the population) Filipinos with access to the internet so there should be no surprise that there are Filipino Reddit users who reside in their own subreddit community: r/Philippines. The subreddit was created on July 4, 2008 and at the time of writing, has over 614 thousand members, produces over 4733 comments a day, and 129 posts a day. This report aims to find out what are the frequent topics in reddit Philippines to find potential insights that could help grow the community.
 
